@@ -143,4 +143,7 @@ footer {
   #showcase h1{
     margin-top:40px;
   }
+  table {
+  border: 1px solid black;
+  }
 }
