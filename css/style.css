@@ -126,6 +126,11 @@ footer {
   text-align:center;
 }
 
+table, td, th {
+  border: 1px solid black;
+}
+
+
 /* Medeia Queries */
 @media(max-width: 768px){
   header #branding,
@@ -143,7 +148,5 @@ footer {
   #showcase h1{
     margin-top:40px;
   }
-  table {
-  border: 1px solid black;
-  }
+  
 }
